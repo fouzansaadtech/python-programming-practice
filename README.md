@@ -51,12 +51,4 @@ This repository contains Python practice programs focused on **Functions**, **Li
 
 ---
 
-## 🛠️ Technologies Used
-
-- Python 3
-- Jupyter Notebook
-- VS Code
-
----
-
 ⭐ Thank you for visiting my repository!
