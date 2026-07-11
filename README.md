@@ -36,8 +36,7 @@ This repository contains Python practice programs focused on **Functions**, **Li
 | 03 | Shopping Bill Calculator | Calculates the total shopping bill |
 | 04 | Password Login System | Login with limited attempts |
 | 05 | Number List Average | Stores numbers and calculates the average |
-| 06 | Functions Practice | User-defined functions and parameters |
-| 07 | Exception Handling | Practice using `try`, `except`, and `finally` |
+
 
 ---
 
