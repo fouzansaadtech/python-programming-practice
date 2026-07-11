@@ -1,68 +1,62 @@
-📘 Python–Programming-Practice Week 3
+# 🚀 Python Programming Practice – Week 3
 
-📌 Overview
-This repository contains my Week 3 Python Mini Projects, where I focused on improving my understanding of Functions, Exception Handling, Lists, Loops, and User Input Validation. These exercises helped me write cleaner, more reliable, and user-friendly Python programs.
+> Strengthening my Python skills through functions, exception handling, and interactive programming.
 
-📚 Topics Covered
-Functions (User-Defined Functions)
-Function Parameters & Return Values
-Lists
-Loops
-User Input
-Exception Handling (try, except, finally)
-ValueError Handling
-ZeroDivisionError Handling
+---
 
-Program Validation
+## 📖 Overview
 
-🚀 Mini Projects Included
-🛒 Shopping Bill Calculator
-Calculates the total shopping bill.
-Uses loops to collect item prices.
-Handles invalid user input using exception handling.
+Welcome to **Week 3** of my Python learning journey!
 
-🔐 Password Login System
-Simulates a login system.
-Allows only 3 password attempts.
-Validates numeric input.
-Demonstrates conditional statements and loops.
+This repository contains Python practice programs focused on **Functions**, **Lists**, **Loops**, **User Input Validation**, and **Exception Handling (`try`, `except`, `finally`)**.
 
-🔢 Number List Average Calculator
-Stores user-entered numbers in a list.
-Calculates the average.
-Handles invalid inputs gracefully.
+---
 
-🎂 Student Age Verification
-Checks whether a student is eligible based on age.
-Uses functions and exception handling.
-Validates integer input.
+## 📚 Topics Covered
 
-➗ Safe Division Calculator
-Performs division safely.
-Handles invalid numbers.
-Prevents division by zero using ZeroDivisionError.
+- ✅ Functions
+- ✅ Function Parameters
+- ✅ Return Values
+- ✅ Lists
+- ✅ Loops
+- ✅ User Input
+- ✅ Exception Handling (`try`, `except`, `finally`)
+- ✅ ValueError Handling
+- ✅ ZeroDivisionError Handling
+- ✅ Program Validation
 
-⚙️ Functions Practice
-Learned:
-Creating user-defined functions
-Parameters
-Return statements
-Function calling
-Different function examples
+---
 
-⚠️ Exception Handling Practice
-Practiced:
-try
-except
-finally
-Runtime error handling
+## 💻 Programs Included
 
-Writing programs that continue running after errors
+| No | Program | Description |
+|----|---------|-------------|
+| 01 | Safe Division Calculator | Handles division safely using exception handling |
+| 02 | Student Age Verification | Validates user input with functions |
+| 03 | Shopping Bill Calculator | Calculates the total shopping bill |
+| 04 | Password Login System | Login with limited attempts |
+| 05 | Number List Average | Stores numbers and calculates the average |
+| 06 | Functions Practice | User-defined functions and parameters |
+| 07 | Exception Handling | Practice using `try`, `except`, and `finally` |
 
-🎯 Learning Outcomes
-Improved Python programming fundamentals.
-Built reusable functions.
-Learned to handle runtime errors effectively.
-Gained confidence working with lists and loops.
-Developed interactive console-based applications.
-Enhanced problem-solving and debugging skills.
+---
+
+## 🎯 Learning Outcomes
+
+- Built reusable Python functions.
+- Improved input validation.
+- Learned to handle runtime errors.
+- Practiced list operations and loops.
+- Developed interactive console applications.
+
+---
+
+## 🛠️ Technologies Used
+
+- Python 3
+- Jupyter Notebook
+- VS Code
+
+---
+
+⭐ Thank you for visiting my repository!
